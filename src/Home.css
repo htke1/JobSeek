@@ -1,0 +1,25 @@
+h2{
+    background-color: #E18A07;
+    text-align-last: center;
+    font-family: Georgia, serif;
+}
+
+h1{
+    background-color:   #C0C0C0;
+    text-align-last: center;
+}
+
+h3{
+    background-color: #3D72A4;
+    text-align-last: center;
+    font-family: system-ui;
+}
+
+.bodyHome{
+    background-repeat: no-repeat;
+  background-position: center top ;
+}
+
+.employees{
+    padding-left: 60px;
+}
